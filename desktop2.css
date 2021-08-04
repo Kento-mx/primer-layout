@@ -1,0 +1,56 @@
+.box-nav {
+    border-radius: 10px;
+    height: 80px;
+}
+
+.opc-nav a {
+    font-size: 2rem;
+    padding: 29px 80px 31px 80px;
+}
+
+.opc-nav a:hover {
+    border-radius: 0px;
+}
+
+/* Main */
+.portada h1 {
+    font-size: 5rem;
+}
+
+.opc-sidebar h2 {
+    font-size: 5rem;
+}
+
+#box1-sidebar {
+    margin-bottom: 15px;
+}
+
+#box1-sidebar picture {
+    width: 90%;
+}
+
+#box2-sidebar {
+    border-top: 10px #212529 solid;
+}
+
+#box3-sidebar {
+    border-top: 10px #212529 solid;
+}
+
+/*Footer */
+.contact a p {
+    margin-left: 5px;
+    font-size: 1.3rem;
+}
+
+.redes .facebook {
+    width: 5%;
+}
+
+.redes picture {
+    width: 4%;
+}
+
+.redes a{
+    font-size: 1.3rem;
+}

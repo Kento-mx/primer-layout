@@ -1,0 +1,63 @@
+
+.box-nav {
+    margin-left: 5px;
+    border-radius: 8px;
+    align-items: center;
+}
+
+.opc-nav a {
+    font-size: 1.2rem;
+    padding: 5px 50px 6px 50px;
+}
+
+.portada h1 {
+    font-size: 3.2rem;
+}
+
+.sidebar{
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.opc-special {
+    border-bottom: 0px #212529 solid;
+}
+
+.opc-sidebar {
+    position: relative;
+    margin: 0;
+}
+
+.opc-sidebar h2 {
+    position: absolute;
+    font-size: 2.8rem;
+}
+
+#box1-sidebar {
+    justify-content: center;
+}
+
+#box2-sidebar {
+    justify-content: center;
+    width: 50%;
+    border-top: 3px #212529 solid;
+}
+
+#box2-sidebar picture {
+    margin-top: 5px;
+    width: 95%;
+}
+
+#box3-sidebar {
+    justify-content: center;
+    width: 50%;
+    border-top: 3px #212529 solid;
+}
+
+#box3-sidebar picture{
+    width: 100%;
+}
+
+.contact picture {
+    width: 5%;
+}

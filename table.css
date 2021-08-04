@@ -1,0 +1,21 @@
+.opc-nav a{
+    padding: 6px 50px 5px 50px;
+}
+
+.opc-sidebar h2 {
+    font-size: 2.2rem;
+}
+
+.redes .facebook {
+    margin-left: 10px;
+    width: 6%;
+}
+
+.redes picture {
+    width: 5%;
+}
+
+.redes a{
+    font-size: 0.9rem;
+    margin-right: 20px;
+}
