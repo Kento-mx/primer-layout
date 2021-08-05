@@ -63,6 +63,7 @@ header {
 .container {
     display: flex;
     flex-direction: column;
+    margin-top: 30px;
     width: 100%;
 }
 
@@ -81,8 +82,7 @@ header {
     top: 60%;
     font-size: 1.9rem;
     color: #ffb703;
-    -webkit-text-stroke: .5px #212529;
-    background-color: #edf6f9;
+    background-color: #212529;
     border-radius: 5px;
     padding: 5px;
 }
@@ -94,7 +94,8 @@ header {
     width: 100%;
     background-color: #d4a373;
     border-radius: 10px;
-    margin-top: 4px;
+    margin-top: 20px;
+    padding: 35px 0;
 }
 
 .opc-sidebar {
